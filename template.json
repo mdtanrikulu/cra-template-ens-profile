@@ -1,0 +1,9 @@
+{
+  "package": {
+    "dependencies": {
+      "@ensdomains/ens-avatar": "^0.1.2",
+      "ethers": "^5.5.4",
+      "use-metamask": "^1.3.2"
+    }
+  }
+}

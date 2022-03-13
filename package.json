@@ -1,0 +1,26 @@
+{
+  "name": "cra-template-ens-profile",
+  "version": "1.0.0",
+  "description": "A Create React App template for ENS Profile exercise",
+  "author": "Muhammed Tanrikulu",
+  "main": "template.json",
+  "keywords": [
+    "ens",
+    "web3",
+    "react",
+    "create-react-app",
+    "cra-template",
+    "template"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=16"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ],
+  "volta": {
+    "node": "16.14.0"
+  }
+}
