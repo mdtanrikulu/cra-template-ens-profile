@@ -28,7 +28,7 @@ export default function App() {
 
   useEffect(() => {
     (async () => {
-      if (metaState.web3 && metaState.isConnected && !user.avatar) {
+      if (metaState.web3 && metaState.isConnected) {
         setLoading(true);
         const provider = metaState.web3;
         // welcome friENS :) we code it here
