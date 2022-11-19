@@ -1,6 +1,6 @@
 {
   "name": "cra-template-ens-profile",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A Create React App template for ENS Profile exercise",
   "author": "Muhammed Tanrikulu",
   "main": "template.json",
